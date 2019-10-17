@@ -1,2 +1,0 @@
-# Shoe_Factory_Story
-Template_Projecto_POO_BD_CC
